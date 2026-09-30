@@ -91,3 +91,25 @@ Machine Learning
 AI / LLM Integration
         ↓
 Decision-Support Systems
+
+📌 Current Focus
+
+I'm currently focused on building and improving:
+
+Full-stack web applications
+Data-driven management systems
+Machine learning applications
+AI-powered features and assistants
+Analytics dashboards
+Practical software solutions
+📂 More Projects
+
+More projects will be added here as they are completed.
+
+🤝 Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/huzaifa-ahmed-shaikh-121608265/
+
+GitHub:
+https://github.com/huzaifa19054
